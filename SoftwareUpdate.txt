@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
