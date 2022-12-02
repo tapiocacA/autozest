@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Add YOLOv8 LibTorch C++ inference example (#7090)
