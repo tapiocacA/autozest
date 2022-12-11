@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
