@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
