@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add Amazon Sagemaker Docs integrations page (#7293)
