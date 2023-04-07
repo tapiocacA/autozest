@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add new YOLOv8 OBB model metrics (#7379)
