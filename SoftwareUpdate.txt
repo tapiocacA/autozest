@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add PaddlePaddle Docs Integrations Page (#8858)
