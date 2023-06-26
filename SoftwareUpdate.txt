@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add new @Retry() decorator (#7854)
