@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
