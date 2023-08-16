@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
