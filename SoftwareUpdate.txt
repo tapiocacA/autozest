@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Replace onnx2tf usage from CLI to Python (#8429)
