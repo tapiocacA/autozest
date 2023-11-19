@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add quantization support to TensorFlow.js converter (#7008)
