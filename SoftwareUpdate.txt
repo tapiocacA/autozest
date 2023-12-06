@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
