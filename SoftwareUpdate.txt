@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add Neural Magic Docs integrations page (#7234)
