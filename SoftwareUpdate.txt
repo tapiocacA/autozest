@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
