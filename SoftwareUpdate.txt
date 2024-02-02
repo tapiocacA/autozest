@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fixed RTDETR GFLOPs bug (#7309)
