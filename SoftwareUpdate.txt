@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update TFLite Docs images (#8605)
