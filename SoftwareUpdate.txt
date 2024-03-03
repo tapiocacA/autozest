@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
