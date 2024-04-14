@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add type hinting to explorer.py (#7388)
