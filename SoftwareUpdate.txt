@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add Amazon Sagemaker Docs integrations page (#7293)
