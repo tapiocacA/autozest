@@ -1,1 +1,1 @@
-fix predict with class filter
+example Google Colab
