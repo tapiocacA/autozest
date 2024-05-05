@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+fix predict with class filter
