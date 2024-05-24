@@ -1,1 +1,1 @@
-update requirements.txt
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
