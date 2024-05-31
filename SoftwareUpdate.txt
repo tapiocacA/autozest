@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
